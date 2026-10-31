@@ -20,3 +20,11 @@ kiem-tra.js       Kiểm tra nhanh hàm tính tổng: node kiem-tra.js
 - Trần Lan
 - Lê Hùng
 - phanminhquang892-hash
+
+## Cách kiểm tra
+
+Chạy lệnh sau ở thư mục dự án:
+
+```bash
+node kiem-tra.js
+```
